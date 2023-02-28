@@ -20,7 +20,7 @@ Hi there 👋 My name is Miguel Angel Lopez Salas
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=transparent" alt="PrismaIllya9016" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&hide_progress=true" alt="PrismaIllya9016" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&hide_progress=true&theme=transparent" alt="PrismaIllya9016" /></p>
 
 <!--
 **PrismaIllya9016/PrismaIllya9016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
