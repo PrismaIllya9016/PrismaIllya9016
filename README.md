@@ -1,5 +1,7 @@
 Hi there 👋 My name is Miguel Angel Lopez Salas
 
+![](https://komarev.com/ghpvc/?username=PrismaIllya9016&style=for-the-badge)
+
 Acerca de mí
 En esta sección puedes proporcionar una descripción breve de quién eres y a qué te dedicas. También puedes mencionar tus intereses y habilidades.
 
