@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**PrismaIllya9016/PrismaIllya9016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Nombre
-Comienza por presentarte a ti mismo. Incluye tu nombre completo o el nombre que prefieras usar en línea.
+Hi there 👋 My name is Miguel Angel Lopez Salas
 
 Acerca de mí
 En esta sección puedes proporcionar una descripción breve de quién eres y a qué te dedicas. También puedes mencionar tus intereses y habilidades.
@@ -22,6 +14,13 @@ Por último, es importante proporcionar una manera para que las personas se pong
 
 Licencia
 También puedes incluir una sección de licencia para tu Readme si deseas proteger tus derechos de autor. Esto es especialmente importante si planeas compartir proyectos en los que hayas trabajado. Puedes elegir una licencia de código abierto o crear tu propia licencia.
+
+<!--
+**PrismaIllya9016/PrismaIllya9016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Here are some ideas to get you started:
+
+
 
 
 
