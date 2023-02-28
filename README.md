@@ -3,6 +3,8 @@
                        
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrismaIllya9016&style=for-the-badge" alt=""/> </p>
 
+<div align="center" display="flex">
+  
 - 🌱 I’m currently learning *Full Stack development with React & Python*
 
 - 💬 Ask me about *CSS, JavaScript, React and Python*
@@ -12,7 +14,7 @@
 - 👯 I want to collaborate on projects that can revolutionize and change the view of the technological world.
 
 - ⚡ Fun fact: I like anime, manga, and music of all kinds, as well as having great skills in design.
-
+</div>
 
 
 
