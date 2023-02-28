@@ -23,8 +23,8 @@
 
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&hide_progress=true&theme=transparent" alt="PrismaIllya9016"/><br></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=transparent" alt="PrismaIllya9016" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PrismaIllya9016&theme=transparent" alt="PrismaIllya9016"/><br></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=transparent" alt="PrismaIllya9016" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrismaIllya9016&theme=transparent" alt="PrismaIllya9016"/><br></p>
 </div>
 
 <!--
