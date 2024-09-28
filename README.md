@@ -1,20 +1,49 @@
-<h1 align="center">Hi 👋, I'm Miguel Angel Lopez Salas</h1>
-<h3 align="center">A Full Stack Developer from Mexico</h3>
-                       
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PrismaIllya9016&style=for-the-badge" alt=""/> </p>
+Hi there! 👋 I'm Miguel Ángel López Salas
+Front-End Developer from Mexico 🇲🇽
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PrismaIllya9016&style=for-the-badge" alt="Profile Views" /> </p>
+🛠️ About Me
 
-<h2 align="center" display="flex">
-  
- 🌱 I’m currently learning *Full Stack development with React & Python*
+I'm a passionate Front-End Developer specializing in React and Python. I have a strong interest in creating interactive and responsive web applications that provide exceptional user experiences. My goal is to contribute to projects that revolutionize and transform the technological landscape.
+🌐 Skills
 
- 💬 Ask me about *CSS, JavaScript, React and Python*
+    Languages: JavaScript (ES6+), Python, HTML5, CSS3
+    Frameworks & Libraries: React.js, Redux
+    Tools: Git, Webpack, Babel
+    Design: Responsive Design, UI/UX Principles, Adobe Creative Suite
 
- 📫 How to reach me *malopez091@gmail.com*
+🚀 What I'm Working On
 
- 👯 I want to collaborate on projects that can revolutionize and change the view of the technological world.
+    Building advanced web applications using React
+    Exploring backend development with Python frameworks
+    Enhancing user interfaces with modern design principles
 
- ⚡ Fun fact: I like anime, manga, and music of all kinds, as well as having great skills in design.
-</h2>
+📚 What I'm Learning
+
+    TypeScript for scalable and maintainable codebases
+    Node.js and Express for full-stack development
+    Performance optimization techniques in web development
+
+💬 Ask Me About
+
+    Front-End Development best practices
+    React ecosystem and state management
+    Responsive and accessible web design
+
+🤝 Let's Collaborate
+
+I'm open to collaborating on innovative projects that have the potential to make a significant impact in the tech world. If you have an idea or project in mind, feel free to reach out!
+📫 Get in Touch
+
+    Email: malopez091@gmail.com
+    LinkedIn: linkedin.com/in/yourprofile
+    Portfolio: yourportfolio.com
+
+⚡ Fun Fact
+
+When I'm not coding, I enjoy immersing myself in anime, manga, and exploring music from various genres. My passion for design complements my development skills, allowing me to create visually appealing and user-friendly applications.
+
+Feel free to explore my repositories below, and let's connect to build something amazing together!
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
 
 
 
