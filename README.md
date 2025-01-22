@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQGYBsbFc8blzA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727504543924?e=1743033600&v=beta&t=BmEu7nQcXMdwyAxb_ATs4LaOYa32cqtRmw1qHEti17U" alt="Banner" />
 </p>
 
-<h1 align="center">¡Hola! 👋 I'm Miguel Ángel López Salas</h1>
+<h1 align="center">¡Hi! 👋 I'm Miguel Ángel López Salas</h1>
 <h3 align="center">Front-End Developer from Mexico 🇲🇽</h3>
 
 <p align="center">
