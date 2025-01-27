@@ -21,7 +21,7 @@
 
 ### 🛠️ Skills
 
-### Lenguajes de Programación
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)
 
 ### Frontend
@@ -35,13 +35,13 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js)
 ![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=spring)
 
-### Herramientas de Desarrollo
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-Expert-orange?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman)
 
-### Diseño
+### Design
 ![Figma](https://img.shields.io/badge/Figma-Expert-purple?style=for-the-badge&logo=figma)
 
 ---
