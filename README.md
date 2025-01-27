@@ -20,13 +20,28 @@
 ---
 
 ### 🛠️ Skills
+
+### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-Intermediate-green?style=for-the-badge&logo=python)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=for-the-badge&logo=tailwind-css)
+![MUI](https://img.shields.io/badge/Material_UI-Expert-0081CB?style=for-the-badge&logo=material-ui)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js)
 ![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?style=for-the-badge&logo=spring)
+
+### Herramientas de Desarrollo
 ![Git](https://img.shields.io/badge/Git-Expert-orange?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman)
+
+### Diseño
 ![Figma](https://img.shields.io/badge/Figma-Expert-purple?style=for-the-badge&logo=figma)
 
 ---
