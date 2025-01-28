@@ -49,10 +49,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 100%; width: 40%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&layout=compact&theme=radical" alt="Top Languages" style="height: 100%; width: 40%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
+</p>
 
 ---
 
