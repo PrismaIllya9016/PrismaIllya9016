@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrismaIllya9016&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; width: 50%; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrismaIllya9016&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;width: auto;" />
 </p>
 
 ---
