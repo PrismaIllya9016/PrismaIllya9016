@@ -36,7 +36,7 @@
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js)
 ![Java](https://img.shields.io/badge/Java-Intermediate-8B0000?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?style=for-the-badge&logo=spring)
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-Expert-orange?style=for-the-badge&logo=git)
